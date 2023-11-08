@@ -17,7 +17,7 @@
 ![]()
 
 ### 🚀 Skills
-
+<!-- ![My Skills](https://skillicons.dev/icons?i=python,go,html,css,json,markdown,git,fastapi,django,flask,pandas,pydantic,beautifulsoup,aiogram,postgresql,sqlite,sqlalchemy,spark,kafka,airflow,docker,k8s) -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,7 +43,7 @@
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes (K8s)](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![]()
 
 ### 👩‍💻 IDE
